@@ -8,7 +8,6 @@
 [Rule]
 # 以下为该软件部分去广告规则
 # DOMAIN-KEYWORD,googleads,REJECT
-
 DOMAIN-SUFFIX,adobe.io,REJECT
 DOMAIN,lcs-cops.adobe.io,DIRECT
 ##################以上自用加#########
