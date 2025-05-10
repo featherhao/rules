@@ -6,11 +6,13 @@
 # 仓库地址：https://github.com/LOWERTOP/Shadowrocket-First
 
 [Rule]
-# 以下为该软件部分去广告规则
-# DOMAIN-KEYWORD,googleads,REJECT
+# 自用加+
+#ps2004去弹窗
 DOMAIN-SUFFIX,adobe.io,REJECT
 DOMAIN,lcs-cops.adobe.io,DIRECT
-# #################以上自用加#########
+# 以上自用加#########
+# 以下为talkatone软件部分去广告规则
+# DOMAIN-KEYWORD,googleads,REJECT
 DOMAIN-SUFFIX,aax.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,aax-fe.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,aax-fe-sin.amazon-adsystem.com,REJECT
