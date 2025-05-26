@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,adobe.io,REJECT
 DOMAIN,lcs-cops.adobe.io,DIRECT
 ##################
 DOMAIN,1p.52zy.eu.org,PROXY
+DOMAIN,1pv.52zy.eu.org,PROXY
+
 
 # ########以上自用加#########
 # 以下为talkatone软件部分去广告规则
