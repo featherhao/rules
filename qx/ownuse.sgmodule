@@ -13,6 +13,9 @@ DOMAIN,lcs-cops.adobe.io,DIRECT
 ##################
 DOMAIN,1p.52zy.eu.org,PROXY
 DOMAIN,1pv.52zy.eu.org,PROXY
+DOMAIN,fiber.google.com,PROXY
+
+
 
 ##########代理########
 DOMAIN-SUFFIX,372372.xyz,PROXY
