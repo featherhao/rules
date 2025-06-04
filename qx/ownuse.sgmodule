@@ -17,8 +17,16 @@ DOMAIN,fiber.google.com,PROXY
 
 
 
-##########代理########
+##########代理域名后缀########
 DOMAIN-SUFFIX,372372.xyz,PROXY
+DOMAIN-SUFFIX,hax.co.id,PROXY
+DOMAIN-SUFFIX,freecloud.ltd,PROXY
+
+##########自用直连规则########
+DOMAIN-SUFFIX,cloudflare.com,DIRECT
+
+
+
 
 
 # ########以上自用加#########
