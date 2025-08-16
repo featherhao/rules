@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,freecloud.ltd,PROXY
 
 ##########自用直连规则########
 #DOMAIN-SUFFIX,cloudflare.com,DIRECT
-DOMAIN-SUFFIX,52zy.eu.org,DIRECT
+#DOMAIN-SUFFIX,52zy.eu.org,DIRECT
 
 
 
