@@ -99,7 +99,9 @@ DOMAIN-SUFFIX,wv.inner-active.mobi,REJECT
 DOMAIN-SUFFIX,www.googletagservices-cn.com,REJECT
 
 # 以下为该软件可能需要走代理的规则
-DOMAIN-SUFFIX,tktn.at,PROXY
+# 以下为该软件可能需要走代理的规则
+DOMAIN-SUFFIX,tktn.at,DIRECT
+# DOMAIN-SUFFIX,tktn.at,PROXY
 DOMAIN-SUFFIX,tktn.be,PROXY
 # 语音留言地址，一般需要代理
 DOMAIN-SUFFIX,vm.talkatone.com,PROXY
