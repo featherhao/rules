@@ -21,9 +21,10 @@ DOMAIN,1pr.52zy.eu.org,PROXY
 ##########代理域名后缀########
 DOMAIN-SUFFIX,372372.xyz,PROXY
 DOMAIN-SUFFIX,hax.co.id,PROXY
-DOMAIN-SUFFIX,freecloud.ltd,PROXY
+##DOMAIN-SUFFIX,freecloud.ltd,PROXY
 
 ##########自用直连规则########
+DOMAIN-SUFFIX,freecloud.ltd,DIRECT
 #DOMAIN-SUFFIX,cloudflare.com,DIRECT
 DOMAIN,52zy.eu.org,DIRECT
 DOMAIN,qqy.pp.ua,DIRECT
