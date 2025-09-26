@@ -19,7 +19,7 @@ DOMAIN,1pr.52zy.eu.org,PROXY
 
 
 ##########代理域名后缀########
-DOMAIN-SUFFIX,372372.xyz,PROXY
+DOMAIN-SUFFIX,372372.xyz,DIRECT
 DOMAIN-SUFFIX,hax.co.id,PROXY
 ##DOMAIN-SUFFIX,freecloud.ltd,PROXY
 
