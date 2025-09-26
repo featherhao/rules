@@ -19,9 +19,14 @@ DOMAIN,1pr.52zy.eu.org,PROXY
 
 
 ##########代理域名后缀########
-DOMAIN-SUFFIX,372372.xyz,DIRECT
+DOMAIN-SUFFIX,372372.xyz,PROXY
 DOMAIN-SUFFIX,hax.co.id,PROXY
+DOMAIN-SUFFIX,mypikpak.com,PROXY
 ##DOMAIN-SUFFIX,freecloud.ltd,PROXY
+
+
+
+
 
 ##########自用直连规则########
 DOMAIN-SUFFIX,freecloud.ltd,DIRECT
@@ -32,7 +37,7 @@ DOMAIN,52zy.pp.ua,DIRECT
 DOMAIN,enheng.pp.ua,DIRECT
 DOMAIN,jkn.pp.ua,DIRECT
 DOMAIN,mtv.qqy.pp.ua,DIRECT
-
+DOMAIN-SUFFIX,372372.xyz,DIRECT
 
 # ########以上自用加#########
 # 以下为talkatone软件部分去广告规则
