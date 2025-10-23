@@ -1,0 +1,21 @@
+# 🏠 内网专用规则
+# 让虚拟 Wi-Fi（192.168.52.0/24）与局域网设备直连
+
+# YazFi 或虚拟网段
+IP-CIDR,192.168.52.0/24,DIRECT,no-resolve
+
+# 允许主路由与旁路互访
+IP-CIDR,192.168.50.0/24,DIRECT,no-resolve
+
+# 全部内网直连
+IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+
+# 本地域名
+DOMAIN-SUFFIX,lan,DIRECT
+DOMAIN-SUFFIX,local,DIRECT
+
+# 防止 Clash 拦截主路由或管理界面
+DOMAIN-SUFFIX,router.asus.com,DIRECT
+DOMAIN-SUFFIX,routerlogin.net,DIRECT
