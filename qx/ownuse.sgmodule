@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,372372.xyz,PROXY
 DOMAIN-SUFFIX,hax.co.id,PROXY
 DOMAIN-SUFFIX,mypikpak.com,PROXY
 ##DOMAIN-SUFFIX,freecloud.ltd,PROXY
-
+DOMAIN-SUFFIX,zj.52zy.eu.org,PROXY
 
 
 
@@ -39,7 +39,6 @@ DOMAIN,jkn.pp.ua,DIRECT
 DOMAIN,mtv.qqy.pp.ua,DIRECT
 DOMAIN-SUFFIX,372372.xyz,DIRECT
 DOMAIN-SUFFIX,pinduoduo.com,DIRECT
-DOMAIN-SUFFIX,zj.52zy.eu.org,DIRECT
 
 
 # ########以上自用加#########
