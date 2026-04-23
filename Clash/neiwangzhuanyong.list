@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,routerlogin.net,DIRECT
 
 # 订阅更新直连
 DOMAIN-SUFFIX,52zy.eu.org,DIRECT
+
+# 订阅更新代理
+#DOMAIN-SUFFIX,52zy.eu.org,PROXY
